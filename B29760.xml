@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vanity of vain glory. With good advice to those who chuse immediate pleasures here, that they no longer can refuse, the thing which cost so dear. Tuue [sic], The gloryes of our birth and state.</title>
+            <author>Shirley, James, 1596-1666.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29760</idno><idno type="EEBO-CITATION">99888154</idno>
+  <idno type="VID">193217</idno>
+  <idno type="EEBO-PROQUEST">2248541347</idno>
+  
+            <idno type="STC">Wing S3491</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.10[75]</idno>
+            <idno type="PROQUEST">ocm99888154</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888154e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29760)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193217)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:2[75])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vanity of vain glory. With good advice to those who chuse immediate pleasures here, that they no longer can refuse, the thing which cost so dear. Tuue [sic], The gloryes of our birth and state.</title>
+                  <author>Shirley, James, 1596-1666.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Cole, T. Vere, J. Wright, J. Clark, W. Thackery, and T. Passenger.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1678 and 1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to James Shirley. Cf. Wing.</note>
+                  <note>Place and date of publication from Wing CD.</note>
+                  <note>Verse: "The gloryes of our birth and state,".</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Pride and vanity --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:193217:1"/>
+            <head>THE Vanity of Vain Glory.</head>
+            <argument>
+               <lg>
+                  <l>With good Advice to those who chuse</l>
+                  <l>Immediate pleasures here,</l>
+                  <l>That they no longer can refuse,</l>
+                  <l>The thing which cost so dear.</l>
+               </lg>
+            </argument>
+            <opener>
+               <hi>Tune,</hi> The Gloryes of our birth and State.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>THe gloryes of our birth and state,</l>
+               <l>are shaddows notsubstantial things</l>
+               <l>There is no armour against our fate</l>
+               <l>death layes his Icy hands on kings▪</l>
+               <l>Scepter and Crown must tumble down</l>
+               <l>and in the dust be equall laid,</l>
+               <l>With a poor crooked sigh and spade.</l>
+            </lg>
+            <lg>
+               <l>Some men with swords do reap the field</l>
+               <l>and plant fresh Lawrels where they kill,</l>
+               <l>But their strong nerues at length must yield</l>
+               <l>they tame but one another still,</l>
+               <l>Early or late all bend to fate</l>
+               <l>&amp; must yield up their murmouring breath</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hilst the pale Captive bleeds to death.</l>
+            </lg>
+            <lg>
+               <l>The garland withers on your brow</l>
+               <l>then boast no more your mighty déeds</l>
+               <l>For on deaths purple Alter now</l>
+               <l>see how the victor victored bléeds,</l>
+               <l>All heads must come to the cold tomb</l>
+               <l>only the Actions of the just</l>
+               <l>Smells sweet and blossoms in the dust.</l>
+            </lg>
+            <lg>
+               <l>All things in this poor life are vain</l>
+               <l>then for a change let us prepare,</l>
+               <l>We must swim through a sea of pain</l>
+               <l>before we reach that Heaven, where</l>
+               <l>There's joyes in store for evermore,</l>
+               <l>and we shall be for ever blest,</l>
+               <l>From toile and labour then to rest.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:193217:1"/>
+               <l>THen never cease to run that race</l>
+               <l>which leads to everlasting bliss,</l>
+               <l>Amongst the saints to take a place</l>
+               <l>oh! what encouragement is this,</l>
+               <l>Who would refuse that way to choose</l>
+               <l>which leads to blest eternity,</l>
+               <l>From pains and sorrows to be free.</l>
+            </lg>
+            <lg>
+               <l>While in this life to some so sweet</l>
+               <l>all kind of wickedness abound,</l>
+               <l>And with such crosses we do meet</l>
+               <l>as all our comforts do confound,</l>
+               <l>There you shall be from passion free</l>
+               <l>and hear no mournings nor complaints</l>
+               <l>But praises sing amongst the saints.</l>
+            </lg>
+            <lg>
+               <l>Infinite joys shall them attend</l>
+               <l>who at that Haven do arrive,</l>
+               <l>Where God himself shall be their friend</l>
+               <l>and nothing ever shall deprive</l>
+               <l>Them of that bliss, which they must miss</l>
+               <l>who will not leave their vanity,</l>
+               <l>But glory in debauchery</l>
+            </lg>
+            <lg>
+               <l>That path which to destruction leads</l>
+               <l>and loads the soul with heaps of sin,</l>
+               <l>To many men more pleasure breeds,</l>
+               <l>and they are more delighted in,</l>
+               <l>Then that which brings all blessed things</l>
+               <l>eternal joy and endless peace,</l>
+               <l>Where bliss abounds and pains do cease.</l>
+            </lg>
+            <lg>
+               <l>But mortal men are always prone</l>
+               <l>their present pleasures for to chuse,</l>
+               <l>Eternal joyes they let alone</l>
+               <l>and thus by sin they'r soul abuse</l>
+               <l>What pitty 'tis that men should miss</l>
+               <l>that happiness which cost so dear,</l>
+               <l>For momentary pleasures here.</l>
+            </lg>
+            <lg>
+               <l>Learn to be wise fond man in time</l>
+               <l>while 'tis to day, your sins repent</l>
+               <l>You may be cut off in your prime</l>
+               <l>and then too late you may lament,</l>
+               <l>In time return for fear you burn</l>
+               <l>and in the lake of torments fry</l>
+               <l>Whose flames will burn perpetually.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for F. Cole. T. Vere. J. Wright. J. Clark W. Thackery. and T. Passenger.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
